@@ -1,7 +1,9 @@
 [🇧🇷]
 
 
-# Paginated Reports in a Day
+# PRIAD: Paginated Reports in a Day
+
+[Curso Relatórios paginados do Power BI em um dia - Power BI | Microsoft Docs](https://docs.microsoft.com/pt-br/power-bi/learning-catalog/paginated-reports-online-course)
 
 ### **Módulos do curso**
 
@@ -22,7 +24,7 @@ ________
 [🇪🇳]
 
 
-# Paginated Reports in a Day
+# PRIAD: Paginated Reports in a Day
 
 ### **Course modules**
 
