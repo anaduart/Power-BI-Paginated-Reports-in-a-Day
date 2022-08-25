@@ -28,7 +28,7 @@
 
 
 
-[`Sales Order.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales Order.rdl): Primeiro relatório
+[`Sales Order.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales%20Order.rdl): Primeiro relatório
 
 - [x] Conectando com a base de dados PBI
 - [x] Usando o Query Design para criar um conjunto de dados
@@ -66,7 +66,7 @@ ________
 
 
 
-[`Sales Order.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales Order.rdl):  First report
+[`Sales Order.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales%20Order.rdl):  First report
 
 - [x] Connecting in PBI database
 - [x] Using Query Design to create a dataset
