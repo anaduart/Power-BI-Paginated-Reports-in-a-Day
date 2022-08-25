@@ -16,7 +16,24 @@
 **07:** Além do desenvolvimento de relatórios
 
 \
-...
+
+### Arquivos
+
+[`Modelo_Relatório.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Modelo_Relatorio.rdl): Modelo de relatório
+
+- [x] Configurando o relatório *(orientação, tamanho e margem da página)*
+- [x] Inserindo imagens
+- [x] Usando expressões *(nome, data da emissão e páginas do relatório)*
+- [x] Explorando o visual design e impressão.
+
+
+
+[`Sales Order.rdl`]([Power-BI-Paginated-Reports-in-a-Day/Sales Order.rdl at main · anaduart/Power-BI-Paginated-Reports-in-a-Day (github.com)](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales Order.rdl)): Primeiro relatório
+
+- [x] Conectando com a base de dados PBI
+- [x] Usando o Query Design para criar um conjunto de dados
+- [x] Criando uma coluna (field) com expressões entre campos.
+- [x] Inserindo itens de relatório
 
 
 ________
@@ -35,3 +52,23 @@ ________
 **05:** Visualizing Report Data\
 **06:** Adding Interactivity Features\
 **07:** Beyond Report Development
+
+
+
+### Files
+
+[`Modelo_Relatório.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Modelo_Relatorio.rdl): Report template
+
+- [x] Configuring the report *(page orientation, page size and margins)*
+- [x] Embedding images
+- [x] Using expressions *(report name, execution time and report pages)*
+- [x] Exploring visual design and print layout.
+
+
+
+[`Sales Order.rdl`]([Power-BI-Paginated-Reports-in-a-Day/Sales Order.rdl at main · anaduart/Power-BI-Paginated-Reports-in-a-Day (github.com )](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales Order.rdl)): First report
+
+- [x] Connecting in PBI database
+- [x] Using Query Design to create a dataset
+- [x] Creating a field with expressions between fields.
+- [x] Inserting report items
