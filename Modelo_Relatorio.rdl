@@ -14,7 +14,7 @@
           </Border>
         </Style>
       </Body>
-      <Width>170mm</Width>
+      <Width>16cm</Width>
       <Page>
         <PageHeader>
           <Height>26.52639mm</Height>
@@ -42,7 +42,7 @@
               </Paragraphs>
               <Top>0.07056cm</Top>
               <Height>12.7mm</Height>
-              <Width>142.40228mm</Width>
+              <Width>134.99395mm</Width>
               <Style>
                 <Border>
                   <Style>None</Style>
@@ -72,7 +72,7 @@
               </Paragraphs>
               <Top>1.37583cm</Top>
               <Height>0.6cm</Height>
-              <Width>14.16967cm</Width>
+              <Width>13.49939cm</Width>
               <ZIndex>1</ZIndex>
               <Style>
                 <Border>
@@ -88,7 +88,8 @@
               <Source>Embedded</Source>
               <Value>AdventureWorksLogo</Value>
               <Sizing>FitProportional</Sizing>
-              <Left>14.31078cm</Left>
+              <Top>0.03528cm</Top>
+              <Left>13.56995cm</Left>
               <Height>2.47625cm</Height>
               <Width>2.26588cm</Width>
               <ZIndex>2</ZIndex>
@@ -130,7 +131,7 @@
               <Top>5.08mm</Top>
               <Left>0mm</Left>
               <Height>6.35mm</Height>
-              <Width>170mm</Width>
+              <Width>160mm</Width>
               <Style>
                 <Border>
                   <Style>None</Style>
