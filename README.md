@@ -15,14 +15,14 @@
 **06:** Adicionar recursos de interatividade\
 **07:** Além do desenvolvimento de relatórios
 
-\
+
 
 ### Arquivos
 
 [`Modelo_Relatório.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Modelo_Relatorio.rdl): Modelo de relatório
 
 - [x] Configurando o relatório *(orientação, tamanho e margem da página)*
-- [x] Inserindo imagens
+- [x] Inserindo imagem local
 - [x] Usando expressões *(nome, data da emissão e páginas do relatório)*
 - [x] Explorando o visual design e impressão.
 
@@ -34,6 +34,15 @@
 - [x] Usando o Query Design para criar um conjunto de dados
 - [x] Criando uma coluna (field) com expressões entre campos.
 - [x] Inserindo itens de relatório
+
+[`Sales_Person:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person.rdl) Identificação das pessoas vendedoras
+
+- [x] Usando o relatório modelo
+- [x] Inserindo o item lista para repetir dados
+- [ ] Inserindo imagem da base de dados
+- [x] Inserindo linha
+- [x] Ordenado os dados
+- [ ] Publicando no PBI Service
 
 
 ________
@@ -72,3 +81,14 @@ ________
 - [x] Using Query Design to create a dataset
 - [x] Creating a field with expressions between fields.
 - [x] Inserting report items
+
+
+
+[`Sales_Person:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person.rdl) SalesPerson Directory
+
+- [x] Using the template report
+- [x] Inserting list item to repeat data
+- [ ] Inserting image from the database
+- [x] Inserting line
+- [x] Sorted the data
+- [ ] Publishing to PBI Service
