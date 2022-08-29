@@ -3,7 +3,7 @@
 
 # PRIAD: Paginated Reports in a Day
 
-[Curso Relatórios paginados do Power BI em um dia - Power BI | Microsoft Docs](https://docs.microsoft.com/pt-br/power-bi/learning-catalog/paginated-reports-online-course)
+**Report Builder** é aplicação extra do Power BI especializada em produzir relatórios paginados, ou seja, relatórios prontos para impressão ou geração de PDF. Esse repositório mantém os arquivos desenvolvidos no curso [ "Relatórios paginados do Power BI em um dia" ](https://docs.microsoft.com/pt-br/power-bi/learning-catalog/paginated-reports-online-course)
 
 ### **Módulos do curso**
 
@@ -44,13 +44,20 @@
 - [x] Ordenado os dados
 - [ ] Publicando no PBI Service
 
+[`Sales_Person_P:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person_P.rdl) Identificação das pessoas vendedoras usando parametros
+
+- [x] Criando parâmetros individuais
+- [ ] Criando parâmetros cascatas
+- [ ] Usando a função `Join()`para unir arrays
+
 
 ________
 
 [🇪🇳]
 
-
 # PRIAD: Paginated Reports in a Day
+
+**Report Builder** is an extra Power BI application specialized in creating paginated reports. This repository contains the files developed in the course ["Power BI Paginated Reports in a Day"](https://www.youtube.com/watch?v=DN1t5p9aui0)
 
 ### **Course modules**
 
