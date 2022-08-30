@@ -44,11 +44,22 @@
 - [x] Ordenado os dados
 - [ ] Publicando no PBI Service
 
-[`Sales_Person_P:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person_P.rdl) Identificação das pessoas vendedoras usando parametros
+[`Sales_Person_P.rdl:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person_P.rdl) Identificação das pessoas vendedoras usando parametros
 
 - [x] Criando parâmetros individuais
 - [ ] Criando parâmetros cascatas
 - [ ] Usando a função `Join()`para unir arrays
+
+[`Performance_Vendas.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Performance_Vendas.rdl): Relatório com tabela detalhada das vendas
+
+- [ ]  Conectando base de dados PBI com Microsoft SQL Server Analysis Services
+- [x] Renomeando colunas do dataset
+- [x] Mostrando conjuntos de dados ocultos
+- [x] Formatando uma tabela
+- [x] Inserindo formatação condicional por cores
+- [x] Inserindo linha de soma em tabela
+- [x] Criando grupo na tabela
+- [x] Customizando os agrupamentos estáticos
 
 
 ________
@@ -99,3 +110,16 @@ ________
 - [x] Inserting line
 - [x] Sorted the data
 - [ ] Publishing to PBI Service
+
+
+
+[`Performance_Vendas.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Performance_Vendas.rdl): Report with detailed sales table
+
+- [ ] Connecting PBI database with Microsoft SQL Server Analysis Services
+- [x] Renaming dataset columns
+- [x] Showing hidden datasets
+- [x] Formatting a table
+- [x] Inserting conditional formatting by cores
+- [x] Inserting sum row into table
+- [x] Creating group in table
+- [x] Customizing static group
