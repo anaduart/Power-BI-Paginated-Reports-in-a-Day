@@ -44,13 +44,17 @@
 - [x] Ordenado os dados
 - [ ] Publicando no PBI Service
 
-[`Sales_Person_P.rdl:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person_P.rdl) Identificação das pessoas vendedoras usando parametros
+[`Sales_Person_P.rdl:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person_P.rdl) Identificação das pessoas vendedoras usando parâmetros
+
+
 
 - [x] Criando parâmetros individuais
 - [ ] Criando parâmetros cascatas
 - [ ] Usando a função `Join()`para unir arrays
 
 [`Performance_Vendas.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Performance_Vendas.rdl): Relatório com tabela detalhada das vendas
+
+![print_4](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Imagens/Performance_venda.PNG)
 
 - [ ]  Conectando base de dados PBI com Microsoft SQL Server Analysis Services
 - [x] Renomeando colunas do dataset
@@ -60,6 +64,10 @@
 - [x] Inserindo linha de soma em tabela
 - [x] Criando grupo na tabela
 - [x] Customizando os agrupamentos estáticos
+
+[`Performance_Vendas_Visual.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Performance_Vendas_Visual.rdl): Relatório com tabela e visualizações detalhadas das vendas
+
+- [ ]  Inserindo Data Bar na linha
 
 
 ________
