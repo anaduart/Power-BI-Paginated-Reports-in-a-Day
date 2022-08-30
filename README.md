@@ -21,6 +21,8 @@
 
 [`Modelo_Relatório.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Modelo_Relatorio.rdl): Modelo de relatório
 
+![print_1](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Imagens/modelo_relatorio.PNG)
+
 - [x] Configurando o relatório *(orientação, tamanho e margem da página)*
 - [x] Inserindo imagem local
 - [x] Usando expressões *(nome, data da emissão e páginas do relatório)*
@@ -30,12 +32,16 @@
 
 [`Sales Order.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales%20Order.rdl): Primeiro relatório
 
+![print_2](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Imagens/Sales_Order.PNG)
+
 - [x] Conectando com a base de dados PBI
 - [x] Usando o Query Design para criar um conjunto de dados
 - [x] Criando uma coluna (field) com expressões entre campos.
 - [x] Inserindo itens de relatório
 
 [`Sales_Person:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person.rdl) Identificação das pessoas vendedoras
+
+![print_3](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Imagens/Sales_Person.PNG)
 
 - [x] Usando o relatório modelo
 - [x] Inserindo o item lista para repetir dados
@@ -46,7 +52,7 @@
 
 [`Sales_Person_P.rdl:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person_P.rdl) Identificação das pessoas vendedoras usando parâmetros
 
-
+![print_3](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Imagens/Sales_Person_P.PNG)
 
 - [x] Criando parâmetros individuais
 - [ ] Criando parâmetros cascatas
