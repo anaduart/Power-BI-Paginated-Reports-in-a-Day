@@ -52,7 +52,7 @@
 
 [`Sales_Person_P.rdl:`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Sales_Person_P.rdl) Identificação das pessoas vendedoras usando parâmetros
 
-![print_3](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Imagens/Sales_Person_P.PNG)
+![print_3](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Imagens/Sales_Person_P.png)
 
 - [x] Criando parâmetros individuais
 - [ ] Criando parâmetros cascatas
@@ -73,7 +73,10 @@
 
 [`Performance_Vendas_Visual.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Performance_Vendas_Visual.rdl): Relatório com tabela e visualizações detalhadas das vendas
 
-- [ ]  Inserindo Data Bar na linha
+![print_4](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Imagens/Performance_venda_visual.PNG)
+
+- [x]  Inserindo Data Bar na linha
+- [x]  Inserindo indicador
 
 
 ________
@@ -137,3 +140,8 @@ ________
 - [x] Inserting sum row into table
 - [x] Creating group in table
 - [x] Customizing static group
+
+[`Performance_Vendas_Visual.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Performance_Vendas_Visual.rdl): Report sales with table and visualization 
+
+- [x] Inserting Data Bar in the line
+- [x] Inserting indicator
