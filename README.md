@@ -75,8 +75,17 @@
 
 ![print_4](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Imagens/Performance_venda_visual.PNG)
 
-- [x]  Inserindo Data Bar na linha
-- [x]  Inserindo indicador
+- [x] Inserindo Data Bar na linha
+
+- [x] Inserindo indicador
+
+- [x] Alterando visibilidade
+
+- [x] Inserindo links
+
+- [x] Ordenando agrupamentos
+
+  
 
 
 ________
@@ -144,4 +153,14 @@ ________
 [`Performance_Vendas_Visual.rdl`](https://github.com/anaduart/Power-BI-Paginated-Reports-in-a-Day/blob/main/Performance_Vendas_Visual.rdl): Report sales with table and visualization 
 
 - [x] Inserting Data Bar in the line
+
 - [x] Inserting indicator
+
+- [x] Toggling Visibility
+
+- [x] Inserting links
+
+- [x] Sorting groupings
+
+  
+
