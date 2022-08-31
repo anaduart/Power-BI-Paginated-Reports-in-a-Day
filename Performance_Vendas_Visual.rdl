@@ -359,6 +359,10 @@
                         <Textbox Name="Textbox3">
                           <rd:DefaultName>Textbox3</rd:DefaultName>
                           <CanGrow>true</CanGrow>
+                          <UserSort>
+                            <SortExpression>=Sum(Fields!Sales.Value)</SortExpression>
+                            <SortExpressionScope>Country</SortExpressionScope>
+                          </UserSort>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
@@ -2428,6 +2432,10 @@
                     </TablixMember>
                     <TablixMember>
                       <Group Name="Details" />
+                      <Visibility>
+                        <Hidden>true</Hidden>
+                        <ToggleItem>Country</ToggleItem>
+                      </Visibility>
                     </TablixMember>
                   </TablixMembers>
                 </TablixMember>
@@ -2436,7 +2444,7 @@
             </TablixRowHierarchy>
             <DataSetName>DataSet1</DataSetName>
             <Height>3.035cm</Height>
-            <Width>18.3752cm</Width>
+            <Width>18.37521cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -2444,7 +2452,7 @@
             </Style>
           </Tablix>
         </ReportItems>
-        <Height>33.86667mm</Height>
+        <Height>30.95625mm</Height>
         <Style>
           <Border>
             <Style>None</Style>
